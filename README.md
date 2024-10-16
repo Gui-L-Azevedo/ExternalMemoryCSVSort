@@ -1,4 +1,4 @@
-# External Sorting for CSV Files
+# External Memory Sorting for CSV Files
 
 ## Overview
 
